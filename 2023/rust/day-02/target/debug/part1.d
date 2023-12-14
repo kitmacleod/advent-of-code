@@ -1,0 +1,1 @@
+/Users/kitmacleod/code/advent-of-code/2023/rust/day-02/target/debug/part1: /Users/kitmacleod/code/advent-of-code/2023/rust/day-02/src/bin/input.txt /Users/kitmacleod/code/advent-of-code/2023/rust/day-02/src/bin/part1.rs
